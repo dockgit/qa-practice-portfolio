@@ -18,15 +18,19 @@ It ensures that software is built efficiently, meets requirements, and works as 
 2. **Planning**  
    - Decide project timeline, budget, and resources.  
    - Make a roadmap for how the software will be developed.
+   - UI/UX design
 
 3. **Design**  
    - Plan how the software will look and work.  
-   - Create diagrams, UI mockups, database structure.  
+   - Create diagrams, UI mockups, database structure.
+   - Code implementation
+   - Frontend + Backend development
    - Example: Design login page layout, database tables for users.
 
 4. **Development / Implementation**  
    - Actual coding starts here.  
-   - Developers write the software based on design.  
+   - Developers write the software based on design.
+   - Verify Functionality
    - Example: Build login functionality using React and API.
 
 5. **Testing**  
